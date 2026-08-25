@@ -1,0 +1,11 @@
+For install rust run this command:
+
+```bash
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+```
+
+For verify installation run:
+
+```bash
+rustc --version
+```
